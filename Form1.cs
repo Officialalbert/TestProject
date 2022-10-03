@@ -20,6 +20,7 @@ namespace TestProject
                 double result = 2 * Ï * Convert.ToDouble(c);
                 label6.Text = result.ToString();
             }
+
         }
 
         private void button2_Click(object sender, EventArgs e)
